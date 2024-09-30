@@ -52,7 +52,7 @@ $questions = [
     ],
 ];
 
-// شمارش پاسخ‌های صحیح و نادرست
+
 $totalQuestions = count($questions);
 $correctAnswers = 0;
 $wrongAnswers = 0;
